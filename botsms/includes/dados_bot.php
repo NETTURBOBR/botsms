@@ -9,7 +9,7 @@ define ('TOKEN_BOT', '5219403207:AAGeh2YcRtolhVTdI12FtsABaZFNaA0Ua40');
 define ('KEY_SMS', '4B915019199205d7B23f86f3c51ded03');
 
 // token do mercado pago
-define ('ACCESS_TOKEN_MERCADO_PAGO', 'APP_USR-4e8c0397-c9de-48fe-bbab-5e81e2d1f6b3');
+define ('ACCESS_TOKEN_MERCADO_PAGO','APP_USR-4e8c0397-c9de-48fe-bbab-5e81e2d1f6b3');
 
 // porcentagem de lucro sobre os valores cobrados no site, já feita a converção
 define ('PORCENTAGEM_LUCRO', 125); // %
