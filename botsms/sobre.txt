@@ -1,0 +1,45 @@
+
+"################## Comandos Publicos ###############################################
+
+/saldo - Saldo atual da conta do usúario
+------------------------------------------------------------------------------------
+/sobre - Sobre o bot, como usar, como funciona...
+------------------------------------------------------------------------------------
+/info - Info do criados do bot ou qualquer coisa
+------------------------------------------------------------------------------------
+/recarregar - Mensagem com link de pagamento da recarga
+------------------------------------------------------------------------------------
+/servicos - Lista de serviços disponiveis
+------------------------------------------------------------------------------------
+/resgatar [id ou codigo] - Resgatar os saldos comprados ou saldos promoçionais
+------------------------------------------------------------------------------------
+/alertas - Cria alertas para os serviços com quantidades de números reduzida
+------------------------------------------------------------------------------------
+
+################## Comandos Administradores ########################################
+
+/addsaldo [id usuario] [valor] - Soma o saldo atual do usuário ao valor definido
+------------------------------------------------------------------------------------
+/removesaldo [id usuario] - Remove todo o saldo do usuário
+------------------------------------------------------------------------------------
+/addresgate [valor] - Cria um código promocional para resgate de saldo
+------------------------------------------------------------------------------------
+/getsaldo [id usuario] - Retorna o saldo do usuário do id, se não tiver id retorna
+o saldo da api de sms
+------------------------------------------------------------------------------------
+/removeblock [id usuario] - Remove blocks do usuario, caso ele tenha excedido o
+número de cancelamentos permitido
+------------------------------------------------------------------------------------
+
+################## Configurações nescessárias ######################################
+
+Defina as informações que o bot precisa para funcionar
+no arquivo /includes/dados_bot.php, para executar o bot use ./iniciar.sh
+em linha de comando.
+
+################## Dicas ###########################################################
+
+Para que o bot verifique e atualize as msg de sms é nescessário que a lista de
+de processos esteja ativa, para ativar use o script iniciar.sh na home do bot
+executando assim ./iniciar.sh, caso reinicie o servidor realize o mesmo
+procedimento.

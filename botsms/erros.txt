@@ -1,0 +1,301 @@
+[20-Apr-2022 00:02:36 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:36 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:36 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:36 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:39 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:39 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:39 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:39 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:40 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:40 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:40 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:40 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:43 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:43 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:43 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:43 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:43 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:43 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:43 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:43 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:47 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:47 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:47 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:47 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:51 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:51 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:51 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:51 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:52 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:52 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:52 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:52 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:55 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:56 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:56 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:56 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:56 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:56 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:02:56 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:02:56 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:00 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:00 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:00 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:00 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:00 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:00 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:00 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:00 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:04 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:04 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:04 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:04 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:04 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:04 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:04 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:04 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:08 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:08 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:08 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:08 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:14 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:14 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:14 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:14 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:14 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:14 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:14 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:14 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:20 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:20 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:20 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:20 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:21 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:21 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:21 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:21 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:24 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:24 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:24 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:24 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:25 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:25 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:25 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:25 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:28 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:28 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:28 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:28 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:35 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:35 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:35 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:35 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:39 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:39 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:39 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:39 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:39 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:39 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:39 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:39 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:43 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:43 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:43 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:43 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:43 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:43 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:43 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:43 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:46 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:46 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:46 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:46 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:47 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:47 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:47 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:47 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:50 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:50 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:50 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:50 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:50 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:50 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:50 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:50 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:54 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:54 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:54 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:54 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:54 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:54 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:54 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:54 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:58 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:58 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:58 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:58 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:58 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:58 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:03:58 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:03:58 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:02 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:02 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:02 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:02 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:02 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:02 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:02 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:02 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:06 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:06 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:06 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:06 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:11 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:11 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:11 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:11 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:12 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:12 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:12 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:12 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:15 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:15 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:15 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:15 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:16 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:16 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:16 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:16 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:19 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:19 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:19 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:19 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:22 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:22 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:22 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:22 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:25 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:25 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:25 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:25 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:26 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:26 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:26 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:26 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:33 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:33 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:33 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:33 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:36 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:36 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:36 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:36 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:37 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:37 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:37 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:37 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:41 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:41 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:41 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:41 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:41 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:41 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:41 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:41 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:45 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:45 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:45 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:45 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:45 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:45 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:45 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:45 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:48 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:48 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:48 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:48 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:55 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:55 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:55 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:55 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:55 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:55 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:55 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:55 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:59 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:59 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:04:59 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:04:59 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:00 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:00 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:00 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:00 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:03 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:04 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:04 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:04 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:05 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:05 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:05 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:05 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:08 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:08 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:08 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:08 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:09 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:09 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:09 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:09 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:13 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:13 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:13 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:13 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:22 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:22 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:22 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:22 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:25 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:25 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:25 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:25 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:26 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:26 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:26 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:26 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:29 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:29 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:29 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:29 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:32 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:32 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:32 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:32 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:38 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:38 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:38 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:38 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:45 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:45 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:45 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:45 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:48 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:48 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:48 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:48 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:49 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:49 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:49 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:49 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:52 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:52 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:52 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:52 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:57 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:57 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 3070
+[20-Apr-2022 00:05:57 America/Sao_Paulo] PHP Notice:  Undefined index: result in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:05:57 America/Sao_Paulo] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /root/includes/Telegram.php on line 1976
+[20-Apr-2022 00:24:08 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /root/comandos/operadora.php on line 18
+[20-Apr-2022 00:47:30 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /root/comandos/operadora.php on line 18
+[20-Apr-2022 00:50:32 America/Sao_Paulo] PHP Warning:  include(comandos/start.php): failed to open stream: No such file or directory in /root/bot.php on line 54
+[20-Apr-2022 00:50:32 America/Sao_Paulo] PHP Warning:  include(): Failed opening 'comandos/start.php' for inclusion (include_path='.:/usr/share/php') in /root/bot.php on line 54
+[20-Apr-2022 01:04:01 America/Sao_Paulo] PHP Warning:  Invalid argument supplied for foreach() in /root/comandos/operadora.php on line 18
