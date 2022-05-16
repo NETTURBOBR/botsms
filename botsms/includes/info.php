@@ -13,7 +13,7 @@ if ($tlg->Callback_ID () !== null){
 
 	$tlg->sendMessage ([
 		'chat_id' => $tlg->ChatID (),
-		'text' => "💬 Entre em contato com o dono do bot para mais informações @MetodosTurbo",
+		'text' => "💬 Entre em contato com o Dono do bot para mais informações @NET_TURBO_VPSBR",
 		'parse_mode' => 'html'
 	]);
 
