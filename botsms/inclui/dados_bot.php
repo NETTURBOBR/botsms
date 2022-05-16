@@ -22,7 +22,7 @@ define ('CHAT_ID_NOTIFICACAO', '-1613726749'); // onde ir� as notifica��es
 define ('GRUPO_ID', '-1613726749'); // grupo de bot
 
 // paises em que o bot vai atender,
-// limitado a 160 paises por conta do telegram não suportar além disso
+// limitada a 160 paises por conta do telegram não suportar além disso
 define ('PAISES', [
 	'187' => '🇺🇸 EUA',
         '87' => '🇵🇾 Paraguai',
