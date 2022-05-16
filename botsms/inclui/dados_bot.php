@@ -1,6 +1,6 @@
 <?php
 
-define ('MODO_DESENVOLVEDOR', false); // no modo desenvolvedor só os adiministradores podem usar o bot
+define ('MODO_DESENVOLVEDOoR', false); // no modo desenvolvedor só os adiministradores podem usar o bot
 
 // TOKEN DO BOT
 define ('TOKEN_BOT', '5219403207:AAGeh2YcRtolhVTdI12FtsABaZFNaA0Ua40');
